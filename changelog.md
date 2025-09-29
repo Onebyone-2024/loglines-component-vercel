@@ -1,3 +1,6 @@
+## release-2025.09.29.17.11.57
+- implement auto build storybook and push to vercel repositories
+
 ## release-2025.09.29.17.02.15
 - Improve monthYearPicker component - add minYear & maxYear
 
