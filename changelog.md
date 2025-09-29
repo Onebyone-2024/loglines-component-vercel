@@ -1,17 +1,58 @@
+## release-2025.09.29.17.02.15
+- Improve monthYearPicker component - add minYear & maxYear
+
+## release-2025.09.18.17.22.58
+- on formatDecimalNumber-  Add≈ `toFixed` prop to number formatting
+
+## release-2025.09.15.16.26.08
+update dropdown asyn
+
+
+## release-2025.09.01.13.21.23
+- update dropdown-async - additional logic on multivalue 
+
+## release-2025.08.28.15.11.45
+- Enable Pre-checked value for table
+- Utilize the resetCheckedInitialValue prop
+
+## release-2025.08.28.14.30.44
+- Re release -> release-2025.08.18.17.42.4
+- bugfix - inconsistent font size caused by hardcoded value
+
+## release-2025.08.28.12.35.10
+
+-   add new props on table component: option overlay component position on prefix
+-   inject css for prefix overlay component
+
+## release-2025.08.19.12.28.28
+
+bugfix - update funciont format decimal for useDecimal in from input
+
+## release-2025.08.19.12.23.38
+
+improvement - update funciont formatDecimal
+
+## release-2025.08.19.12.06.43
+
+realase
+
 ## release-2025.08.07.21.31.36
-- improvement - add loading indicator and empty image icon inside table
-- improvement - add loading indicator and empty image icon inside table-tree
-- improvement - add loading indicator and empty image icon inside table-list-view
+
+-   improvement - add loading indicator and empty image icon inside table
+-   improvement - add loading indicator and empty image icon inside table-tree
+-   improvement - add loading indicator and empty image icon inside table-list-view
 
 ## release-2025.08.07.13.33.03
-- improvement - add custom build on table tree
-- bugfix - dropdown multiselect get bolder when choosing many items
-- bugfix - inconsistent padding when height more than default (36px)
+
+-   improvement - add custom build on table tree
+-   bugfix - dropdown multiselect get bolder when choosing many items
+-   bugfix - inconsistent padding when height more than default (36px)
 
 ## release-2025.07.30.17.21.59
-- improvement - dropdown multi select, use chip to show selected information
-- improvement - create story for  dropdown multi select when `isChip: true`
-- improvement - create story for dropdown creatable
+
+-   improvement - dropdown multi select, use chip to show selected information
+-   improvement - create story for dropdown multi select when `isChip: true`
+-   improvement - create story for dropdown creatable
 
 ## release-2025.07.29.18.32.08
 
