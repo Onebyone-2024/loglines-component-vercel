@@ -1924,7 +1924,6 @@ input[type='time']::-webkit-calendar-picker-indicator {
     padding-left: 2px;
     padding-right: 2px;
     height: 10px;
-    color: var(--loglines-gray-v5);
     position: relative;
     margin-top: -7.5px;
 }
@@ -1961,11 +1960,6 @@ input[type='time']::-webkit-calendar-picker-indicator {
     border-color: var(--loglines-brand-v5);
     outline: none;
     box-shadow: none;
-}
-
-.inputParent-style input::placeholder {
-    color: var(--loglines-gray-v3);
-    font-size: 12px;
 }
 
 .inputParent-style input:-webkit-autofill {
@@ -2384,7 +2378,7 @@ input {
     overflow: auto;
     outline: none;
     box-shadow: none;
-    border-color: var(--loglines-brand-v5) !important;
+    border-color: var(--loglines-brand-v5);
     --tw-ring-color: transparent !important;
 }
 
@@ -2396,10 +2390,6 @@ input {
 .textareaParent-style .disabled-white {
     color: var(--loglines-gray-v5);
     background-color: var(--loglines-white);
-}
-
-.textareaParent-style textarea::placeholder {
-    color: var(--loglines-gray-v4);
 }
 
 .step-item {
@@ -6484,9 +6474,6 @@ video {
 .\!text-size-L {
   font-size: 20px !important;
 }
-.\!text-size-M {
-  font-size: 16px !important;
-}
 .\!text-size-S {
   font-size: 14px !important;
 }
@@ -6637,6 +6624,9 @@ video {
 }
 .line-through {
   text-decoration-line: line-through;
+}
+.placeholder-\[var\(--loglines-gray-v4\)\]::placeholder {
+  color: var(--loglines-gray-v4);
 }
 .caret-transparent {
   caret-color: transparent;
@@ -7000,4 +6990,4 @@ table.table-master.table-auto {
 }
 
 
-/*# sourceMappingURL=main.1913998a.css.map*/
+/*# sourceMappingURL=main.f029b237.css.map*/

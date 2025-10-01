@@ -1,3 +1,8 @@
+## release-2025.10.01.16.48.52
+- Formik error: all components now use the same error styling, with red-v3 applied to both the border and label.
+- On focus: all components have consistent styling when focused, with the border and label highlighted.
+- add stories for component
+
 ## release-2025.09.29.17.11.57
 - implement auto build storybook and push to vercel repositories
 
