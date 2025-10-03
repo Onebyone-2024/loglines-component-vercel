@@ -1,3 +1,6 @@
+## release-2025.10.03.11.26.59
+- Improvement on Toggle component - Add Props for functionality and more custom styles
+
 ## release-2025.10.01.16.48.52
 - Formik error: all components now use the same error styling, with red-v3 applied to both the border and label.
 - On focus: all components have consistent styling when focused, with the border and label highlighted.
