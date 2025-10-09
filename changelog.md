@@ -1,3 +1,7 @@
+## release-2025.10.09.17.38.15
+- LabelData component - add additional props in component label data (icon classname, icon click, and subdata classname)
+
+
 ## release-2025.10.03.11.26.59
 - Improvement on Toggle component - Add Props for functionality and more custom styles
 
