@@ -1,3 +1,7 @@
+## release-2025.10.13.12.30.33
+- improvement: Add additional prop selectedLabel for change label multiple data selections in the dropdown component
+- improvement: date picker input add properties for custom format date 
+
 ## release-2025.10.09.17.38.15
 - LabelData component - add additional props in component label data (icon classname, icon click, and subdata classname)
 
