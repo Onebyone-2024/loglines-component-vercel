@@ -1,3 +1,19 @@
+## release-2025.10.15.12.41.59
+- Styling fixes for Measurement Input component
+- Fix hover color not working
+- Add styling for Formik error state
+- Make component responsive when the height is adjusted
+- Fix double border issue on focus
+- Match styling with Dropdown component
+
+## release-2025.10.15.12.40.58
+- Styling fixes for Measurement Input component
+- Fix hover color not working
+- Add styling for Formik error state
+- Make component responsive when the height is adjusted
+- Fix double border issue on focus
+- Match styling with Dropdown component
+
 ## release-2025.10.13.12.30.33
 - improvement: Add additional prop selectedLabel for change label multiple data selections in the dropdown component
 - improvement: date picker input add properties for custom format date 
