@@ -1,3 +1,6 @@
+## release-2025.10.15.16.57.31
+- add input-group class that use flex-1 to take remaining space
+
 ## release-2025.10.15.12.41.59
 - Styling fixes for Measurement Input component
 - Fix hover color not working
