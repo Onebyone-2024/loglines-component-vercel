@@ -1,3 +1,6 @@
+## release-2025.10.17.09.20.25
+- fix bugs - border color issue on date picker input
+
 ## release-2025.10.15.16.57.31
 - add input-group class that use flex-1 to take remaining space
 
