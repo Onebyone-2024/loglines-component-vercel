@@ -1,3 +1,6 @@
+## release-2025.10.23.16.09.17
+- improve form input - add props.useIndonesianDecimalFormat
+
 ## release-2025.10.23.15.49.30
 - improve form input - add props.useIndonesianDecimalFormat
 
