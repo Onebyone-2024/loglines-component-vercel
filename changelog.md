@@ -1,3 +1,6 @@
+## release-2025.10.28.12.01.24
+- Table Component - add custom screen breakpoint for listView to be shown
+
 ## release-2025.10.23.16.09.17
 - improve form input - add props.useIndonesianDecimalFormat
 
