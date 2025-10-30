@@ -1,3 +1,7 @@
+## release-2025.10.30.16.18.43
+improvement dropdown creatable for red border error
+
+
 ## release-2025.10.28.12.01.24
 - Table Component - add custom screen breakpoint for listView to be shown
 
