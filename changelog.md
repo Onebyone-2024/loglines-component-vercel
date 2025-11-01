@@ -1,3 +1,6 @@
+## release-2025.11.01.08.42.42
+fix bugs - checkbox on table
+
 ## release-2025.10.31.13.10.59
 Dropdown Async - Improvement: add onInputChange prop
 
