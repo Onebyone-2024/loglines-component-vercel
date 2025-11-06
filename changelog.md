@@ -1,3 +1,14 @@
+## release-2025.11.06.16.08.26
+- New Component - Input Number
+- New Component - Form Input Numner
+- Refactor Measurement Input 
+    - remove `type` , `useDecimalFormat`
+    - add `maxLength`
+- Create story for Form Measurement Input
+- refactor global service `numberWithCommas`
+- refactor global service `formatDecimalNumber
+- remove all indonesia language comment`
+
 ## release-2025.11.01.08.42.42
 fix bugs - checkbox on table
 
