@@ -1,3 +1,7 @@
+## release-2025.11.07.11.15.15
+- improvement: add props disable on item button popup
+
+
 ## release-2025.11.06.16.19.24
 - New Component - Input Number
 - New Component - Form Input Numner
