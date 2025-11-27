@@ -1,3 +1,7 @@
+## release-2025.11.28.00.47.57
+- improvement - add `additional on checked` on FormCheckbox
+
+
 ## release-2025.11.27.22.38.35
 - improvement - barcode scanner add props `facing mode` to decide front / back camera
 

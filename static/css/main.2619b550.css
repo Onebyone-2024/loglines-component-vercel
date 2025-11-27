@@ -6243,6 +6243,11 @@ video {
   background-color: rgb(37 99 235 / 1);
   background-color: rgb(37 99 235 / var(--tw-bg-opacity, 1));
 }
+.bg-gray-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(243 244 246 / 1);
+  background-color: rgb(243 244 246 / var(--tw-bg-opacity, 1));
+}
 .bg-gray-200 {
   --tw-bg-opacity: 1;
   background-color: rgb(229 231 235 / 1);
@@ -6995,4 +7000,4 @@ table.table-master.table-auto {
 }
 
 
-/*# sourceMappingURL=main.d9c1bcae.css.map*/
+/*# sourceMappingURL=main.2619b550.css.map*/
