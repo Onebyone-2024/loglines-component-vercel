@@ -1,3 +1,6 @@
+## release-2025.11.28.02.26.41
+- Improvement - add props `closeModalOnOutsideClick` to handle outside click modal
+
 ## release-2025.11.28.00.47.57
 - improvement - add `additional on checked` on FormCheckbox
 
