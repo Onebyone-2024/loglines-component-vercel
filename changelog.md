@@ -1,3 +1,7 @@
+## release-2025.11.27.22.38.35
+- improvement - barcode scanner add props `facing mode` to decide front / back camera
+
+
 ## release-2025.11.07.11.15.15
 - improvement: add props disable on item button popup
 
