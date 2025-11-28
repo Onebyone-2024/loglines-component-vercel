@@ -1,3 +1,6 @@
+## release-2025.11.28.14.18.31
+improvement for data null or undifiend
+
 ## release-2025.11.28.02.26.41
 - Improvement - add props `closeModalOnOutsideClick` to handle outside click modal
 
