@@ -1,3 +1,6 @@
+## release-2025.12.03.11.10.30
+- improvement - improve `defaultOptions` on dropdown async
+
 ## release-2025.11.28.14.48.57
 improvement all table for data null and undifined
 
