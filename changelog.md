@@ -1,9 +1,5 @@
-## release-2025.12.04.11.43.53
-add status purple and tab
-
-
-## release-2025.12.04.11.39.26
-add colors purple for tab status
+## release-2025.12.04.13.32.14
+- improvement - add purple color on itabitem interface
 
 
 ## release-2025.12.03.11.13.48
