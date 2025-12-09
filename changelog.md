@@ -1,10 +1,12 @@
+## release-2025.12.09.12.49.31
+- improvement - add `string` type on tab classname
+
 ## release-2025.12.04.13.33.52
 - improvement - add purple color on itabitem interface
 
 
 ## release-2025.12.04.13.32.14
 - improvement - add purple color on itabitem interface
-
 
 ## release-2025.12.03.11.13.48
 - improvement - improve default options on dropdown async
