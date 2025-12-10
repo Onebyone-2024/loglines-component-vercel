@@ -1,149 +1,180 @@
-## release-2025.12.09.12.49.31
-- improvement - add `string` type on tab classname
+## release-2025.12.10.12.03.59
+- improvement - add `isClearable` props on date picker
+
+## release-2025.12.09.12.49.32
+
+-   improvement - add `string` type on tab classname
 
 ## release-2025.12.04.13.33.52
-- improvement - add purple color on itabitem interface
 
+-   improvement - add purple color on itabitem interface
 
 ## release-2025.12.04.13.32.14
-- improvement - add purple color on itabitem interface
+
+-   improvement - add purple color on itabitem interface
 
 ## release-2025.12.03.11.13.48
-- improvement - improve default options on dropdown async
+
+-   improvement - improve default options on dropdown async
 
 ## release-2025.12.03.11.10.30
-- improvement - improve `defaultOptions` on dropdown async
+
+-   improvement - improve `defaultOptions` on dropdown async
 
 ## release-2025.11.28.14.48.57
+
 improvement all table for data null and undefined
 
 ## release-2025.11.28.14.18.31
+
 improvement for data null or undifiend
 
 ## release-2025.11.28.02.26.41
-- Improvement - add props `closeModalOnOutsideClick` to handle outside click modal
+
+-   Improvement - add props `closeModalOnOutsideClick` to handle outside click modal
 
 ## release-2025.11.28.00.47.57
-- improvement - add `additional on checked` on FormCheckbox
 
+-   improvement - add `additional on checked` on FormCheckbox
 
 ## release-2025.11.27.22.38.35
-- improvement - barcode scanner add props `facing mode` to decide front / back camera
 
+-   improvement - barcode scanner add props `facing mode` to decide front / back camera
 
 ## release-2025.11.07.11.15.15
-- improvement: add props disable on item button popup
 
+-   improvement: add props disable on item button popup
 
 ## release-2025.11.06.16.19.24
-- New Component - Input Number
-- New Component - Form Input Numner
-- Refactor Measurement Input 
-    - remove `type` , `useDecimalFormat`
-    - add `maxLength`
-- Create story for Form Measurement Input
-- refactor global service `numberWithCommas`
-- refactor global service `formatDecimalNumber
-- remove all indonesia language comment`
+
+-   New Component - Input Number
+-   New Component - Form Input Numner
+-   Refactor Measurement Input
+    -   remove `type` , `useDecimalFormat`
+    -   add `maxLength`
+-   Create story for Form Measurement Input
+-   refactor global service `numberWithCommas`
+-   refactor global service `formatDecimalNumber
+-   remove all indonesia language comment`
 
 ## release-2025.11.06.16.08.26
-- New Component - Input Number
-- New Component - Form Input Numner
-- Refactor Measurement Input 
-    - remove `type` , `useDecimalFormat`
-    - add `maxLength`
-- Create story for Form Measurement Input
-- refactor global service `numberWithCommas`
-- refactor global service `formatDecimalNumber
-- remove all indonesia language comment`
+
+-   New Component - Input Number
+-   New Component - Form Input Numner
+-   Refactor Measurement Input
+    -   remove `type` , `useDecimalFormat`
+    -   add `maxLength`
+-   Create story for Form Measurement Input
+-   refactor global service `numberWithCommas`
+-   refactor global service `formatDecimalNumber
+-   remove all indonesia language comment`
 
 ## release-2025.11.01.08.42.42
+
 fix bugs - checkbox on table
 
 ## release-2025.10.31.13.10.59
+
 Dropdown Async - Improvement: add onInputChange prop
 
 ## release-2025.10.30.16.22.22
+
 improvement dropdown creatable for red border error
 
 ## release-2025.10.30.16.18.43
+
 improvement dropdown creatable for red border error
 
-
 ## release-2025.10.28.12.01.24
-- Table Component - add custom screen breakpoint for listView to be shown
+
+-   Table Component - add custom screen breakpoint for listView to be shown
 
 ## release-2025.10.23.16.09.17
-- improve form input - add props.useIndonesianDecimalFormat
+
+-   improve form input - add props.useIndonesianDecimalFormat
 
 ## release-2025.10.23.15.49.30
-- improve form input - add props.useIndonesianDecimalFormat
 
+-   improve form input - add props.useIndonesianDecimalFormat
 
 ## release-2025.10.23.11.27.29
+
 small update
 
 ## release-2025.10.17.09.20.25
-- fix bugs - border color issue on date picker input
+
+-   fix bugs - border color issue on date picker input
 
 ## release-2025.10.15.16.57.31
-- add input-group class that use flex-1 to take remaining space
+
+-   add input-group class that use flex-1 to take remaining space
 
 ## release-2025.10.15.12.41.59
-- Styling fixes for Measurement Input component
-- Fix hover color not working
-- Add styling for Formik error state
-- Make component responsive when the height is adjusted
-- Fix double border issue on focus
-- Match styling with Dropdown component
+
+-   Styling fixes for Measurement Input component
+-   Fix hover color not working
+-   Add styling for Formik error state
+-   Make component responsive when the height is adjusted
+-   Fix double border issue on focus
+-   Match styling with Dropdown component
 
 ## release-2025.10.15.12.40.58
-- Styling fixes for Measurement Input component
-- Fix hover color not working
-- Add styling for Formik error state
-- Make component responsive when the height is adjusted
-- Fix double border issue on focus
-- Match styling with Dropdown component
+
+-   Styling fixes for Measurement Input component
+-   Fix hover color not working
+-   Add styling for Formik error state
+-   Make component responsive when the height is adjusted
+-   Fix double border issue on focus
+-   Match styling with Dropdown component
 
 ## release-2025.10.13.12.30.33
-- improvement: Add additional prop selectedLabel for change label multiple data selections in the dropdown component
-- improvement: date picker input add properties for custom format date 
+
+-   improvement: Add additional prop selectedLabel for change label multiple data selections in the dropdown component
+-   improvement: date picker input add properties for custom format date
 
 ## release-2025.10.09.17.38.15
-- LabelData component - add additional props in component label data (icon classname, icon click, and subdata classname)
 
+-   LabelData component - add additional props in component label data (icon classname, icon click, and subdata classname)
 
 ## release-2025.10.03.11.26.59
-- Improvement on Toggle component - Add Props for functionality and more custom styles
+
+-   Improvement on Toggle component - Add Props for functionality and more custom styles
 
 ## release-2025.10.01.16.48.52
-- Formik error: all components now use the same error styling, with red-v3 applied to both the border and label.
-- On focus: all components have consistent styling when focused, with the border and label highlighted.
-- add stories for component
+
+-   Formik error: all components now use the same error styling, with red-v3 applied to both the border and label.
+-   On focus: all components have consistent styling when focused, with the border and label highlighted.
+-   add stories for component
 
 ## release-2025.09.29.17.11.57
-- implement auto build storybook and push to vercel repositories
+
+-   implement auto build storybook and push to vercel repositories
 
 ## release-2025.09.29.17.02.15
-- Improve monthYearPicker component - add minYear & maxYear
+
+-   Improve monthYearPicker component - add minYear & maxYear
 
 ## release-2025.09.18.17.22.58
-- on formatDecimalNumber-  Add≈ `toFixed` prop to number formatting
+
+-   on formatDecimalNumber- Add≈ `toFixed` prop to number formatting
 
 ## release-2025.09.15.16.26.08
+
 update dropdown asyn
 
-
 ## release-2025.09.01.13.21.23
-- update dropdown-async - additional logic on multivalue 
+
+-   update dropdown-async - additional logic on multivalue
 
 ## release-2025.08.28.15.11.45
-- Enable Pre-checked value for table
-- Utilize the resetCheckedInitialValue prop
+
+-   Enable Pre-checked value for table
+-   Utilize the resetCheckedInitialValue prop
 
 ## release-2025.08.28.14.30.44
-- Re release -> release-2025.08.18.17.42.4
-- bugfix - inconsistent font size caused by hardcoded value
+
+-   Re release -> release-2025.08.18.17.42.4
+-   bugfix - inconsistent font size caused by hardcoded value
 
 ## release-2025.08.28.12.35.10
 
