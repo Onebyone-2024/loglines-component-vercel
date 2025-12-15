@@ -1,3 +1,6 @@
+## release-2025.12.15.17.39.56
+- improvement - add new option `iconClassName` and `optionContainerClassname` on `IDropdownItem`
+
 ## release-2025.12.10.12.03.59
 - improvement - add `isClearable` props on date picker
 
