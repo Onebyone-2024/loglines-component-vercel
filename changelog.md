@@ -1,57 +1,68 @@
+## release-2025.12.16.19.18.49
+-   improvement - add `asteriskPosition` prop support to:
+    -   `dropdown-async` component: required asterisk can now be positioned before or after the label using `asteriskPosition` prop
+    -   `dropdown-creatable` component: required asterisk can now be positioned before or after the label using `asteriskPosition` prop
+    -   `form-dropdown-creatable` component: passes `asteriskPosition` prop to dropdown-creatable for consistent required asterisk placement
+
 ## release-2025.12.16.18.10.55
+
 fix bugs - add `additional.css` for global css (exclude tailwind)
 
 ## release-2025.12.16.17.12.52
-- improvement - add `asteriskPosition` prop ('before' | 'after') to all form components for flexible required asterisk placement:
-  - `form-input`
-  - `form-date-picker`
-  - `form-dropdown`
-  - `form-input-file`
-  - `form-input-number`
-  - `form-measurement-input`
-  - `form-phone-input`
-  - `form-textarea`
-  - `form-checkbox`
-  - `form-radio`
-  - `form-toggle-switch`
-  - `form-month-year-picker`
-- improvement - add `asteriskPosition` prop to base components:
-  - `input`
-  - `input-number`
-  - `dropdown`
-  - `date-picker`
-  - `measurement-input`
-  - `text-area`
-- improvement - create comprehensive Storybook stories for `form-measurement-input` component with 15 examples showcasing all features
+
+-   improvement - add `asteriskPosition` prop ('before' | 'after') to all form components for flexible required asterisk placement:
+    -   `form-input`
+    -   `form-date-picker`
+    -   `form-dropdown`
+    -   `form-input-file`
+    -   `form-input-number`
+    -   `form-measurement-input`
+    -   `form-phone-input`
+    -   `form-textarea`
+    -   `form-checkbox`
+    -   `form-radio`
+    -   `form-toggle-switch`
+    -   `form-month-year-picker`
+-   improvement - add `asteriskPosition` prop to base components:
+    -   `input`
+    -   `input-number`
+    -   `dropdown`
+    -   `date-picker`
+    -   `measurement-input`
+    -   `text-area`
+-   improvement - create comprehensive Storybook stories for `form-measurement-input` component with 15 examples showcasing all features
 
 ## release-2025.12.16
-- improvement - add `asteriskPosition` prop ('before' | 'after') to all form components for flexible required asterisk placement:
-  - `form-input`
-  - `form-date-picker`
-  - `form-dropdown`
-  - `form-input-file`
-  - `form-input-number`
-  - `form-measurement-input`
-  - `form-phone-input`
-  - `form-textarea`
-  - `form-checkbox`
-  - `form-radio`
-  - `form-toggle-switch`
-  - `form-month-year-picker`
-- improvement - add `asteriskPosition` prop to base components:
-  - `input`
-  - `input-number`
-  - `dropdown`
-  - `date-picker`
-  - `measurement-input`
-  - `text-area`
-- improvement - create comprehensive Storybook stories for `form-measurement-input` component with 15 examples showcasing all features
+
+-   improvement - add `asteriskPosition` prop ('before' | 'after') to all form components for flexible required asterisk placement:
+    -   `form-input`
+    -   `form-date-picker`
+    -   `form-dropdown`
+    -   `form-input-file`
+    -   `form-input-number`
+    -   `form-measurement-input`
+    -   `form-phone-input`
+    -   `form-textarea`
+    -   `form-checkbox`
+    -   `form-radio`
+    -   `form-toggle-switch`
+    -   `form-month-year-picker`
+-   improvement - add `asteriskPosition` prop to base components:
+    -   `input`
+    -   `input-number`
+    -   `dropdown`
+    -   `date-picker`
+    -   `measurement-input`
+    -   `text-area`
+-   improvement - create comprehensive Storybook stories for `form-measurement-input` component with 15 examples showcasing all features
 
 ## release-2025.12.15.17.39.56
-- improvement - add new option `iconClassName` and `optionContainerClassname` on `IDropdownItem`
+
+-   improvement - add new option `iconClassName` and `optionContainerClassname` on `IDropdownItem`
 
 ## release-2025.12.10.12.03.59
-- improvement - add `isClearable` props on date picker
+
+-   improvement - add `isClearable` props on date picker
 
 ## release-2025.12.09.12.49.32
 
