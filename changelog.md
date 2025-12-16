@@ -1,3 +1,49 @@
+## release-2025.12.16.17.12.52
+- improvement - add `asteriskPosition` prop ('before' | 'after') to all form components for flexible required asterisk placement:
+  - `form-input`
+  - `form-date-picker`
+  - `form-dropdown`
+  - `form-input-file`
+  - `form-input-number`
+  - `form-measurement-input`
+  - `form-phone-input`
+  - `form-textarea`
+  - `form-checkbox`
+  - `form-radio`
+  - `form-toggle-switch`
+  - `form-month-year-picker`
+- improvement - add `asteriskPosition` prop to base components:
+  - `input`
+  - `input-number`
+  - `dropdown`
+  - `date-picker`
+  - `measurement-input`
+  - `text-area`
+- improvement - create comprehensive Storybook stories for `form-measurement-input` component with 15 examples showcasing all features
+
+## release-2025.12.16
+- improvement - add `asteriskPosition` prop ('before' | 'after') to all form components for flexible required asterisk placement:
+  - `form-input`
+  - `form-date-picker`
+  - `form-dropdown`
+  - `form-input-file`
+  - `form-input-number`
+  - `form-measurement-input`
+  - `form-phone-input`
+  - `form-textarea`
+  - `form-checkbox`
+  - `form-radio`
+  - `form-toggle-switch`
+  - `form-month-year-picker`
+- improvement - add `asteriskPosition` prop to base components:
+  - `input`
+  - `input-number`
+  - `dropdown`
+  - `date-picker`
+  - `measurement-input`
+  - `text-area`
+- improvement - create comprehensive Storybook stories for `form-measurement-input` component with 15 examples showcasing all features
+
 ## release-2025.12.15.17.39.56
 - improvement - add new option `iconClassName` and `optionContainerClassname` on `IDropdownItem`
 
