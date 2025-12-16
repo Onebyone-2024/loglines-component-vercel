@@ -1,3 +1,6 @@
+## release-2025.12.16.18.10.55
+fix bugs - add `additional.css` for global css (exclude tailwind)
+
 ## release-2025.12.16.17.12.52
 - improvement - add `asteriskPosition` prop ('before' | 'after') to all form components for flexible required asterisk placement:
   - `form-input`

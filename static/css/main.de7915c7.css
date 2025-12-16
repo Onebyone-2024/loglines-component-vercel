@@ -6750,17 +6750,6 @@ video {
     box-shadow: 0px 10px 10px #cbcaca;
 }
 
-.required:before {
-    content: ' *';
-    color: var(--loglines-red-v3);
-    padding-right: 1px;
-}
-.required-asterisk-after:after {
-    content: '*';
-    color: var(--loglines-red-v3);
-    padding-right: 1px;
-}
-
 .logo-brand-svg path {
     fill: var(--loglines-brand-v5);
 }
@@ -7004,5 +6993,22 @@ table.table-master.table-auto {
   appearance: none;
 }
 
+/* 
+    Note: The index.css file will not be included in the build process.
+    Therefore, any external CSS (outside of Tailwind) should be placed here.
+*/
+/*  */
 
-/*# sourceMappingURL=main.f21d1e38.css.map*/
+.required:before {
+    content: ' *';
+    color: var(--loglines-red-v3);
+    padding-right: 1px;
+}
+.required-asterisk-after:after {
+    content: '*';
+    color: var(--loglines-red-v3);
+    padding-left: 1px;
+}
+
+
+/*# sourceMappingURL=main.de7915c7.css.map*/
