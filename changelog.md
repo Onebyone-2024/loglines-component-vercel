@@ -1,3 +1,11 @@
+## release-2025.12.17.20.14.33
+-   improvement - improve tab-master component responsive sizing:
+    -   added xl breakpoint grid layout (xl:grid xl:grid-cols-5) for better desktop alignment
+    -   title now spans full width on xl screens (xl:col-span-5)
+    -   tabs section constrained to 3 columns on xl screens (xl:col-span-3)
+    -   search and buttons section spans 2 columns on xl screens (xl:col-span-2)
+    -   improved responsive behavior across all screen sizes
+
 ## release-2025.12.17.19.47.27
 - refactor dropdown, dropdown-async, and dropdown-creatable components with
   custom clear and dropdown indicators for consistent icon styling
@@ -5,6 +13,14 @@
   improved disabled state, and fixed heights for icons and separator
 - add focus state CSS classes to measurement-input for better visual feedback
 - improve disabled state visual consistency across form components
+
+## release-2025.12.17.20.07.55
+-   improvement - improve tab-master component responsive sizing:
+    -   added xl breakpoint grid layout (xl:grid xl:grid-cols-5) for better desktop alignment
+    -   title now spans full width on xl screens (xl:col-span-5)
+    -   tabs section constrained to 3 columns on xl screens (xl:col-span-3)
+    -   search and buttons section spans 2 columns on xl screens (xl:col-span-2)
+    -   improved responsive behavior across all screen sizes
 
 ## release-2025.12.17.16.30.00
 -   improvement - refactor dropdown components (dropdown, dropdown-async, dropdown-creatable) with custom clear and dropdown indicators for consistent icon styling

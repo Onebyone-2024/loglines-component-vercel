@@ -6980,6 +6980,22 @@ table.table-master.table-auto {
 }
 @media (min-width: 1280px) {
 
+  .xl\:col-span-2 {
+    grid-column: span 2 / span 2;
+  }
+
+  .xl\:col-span-3 {
+    grid-column: span 3 / span 3;
+  }
+
+  .xl\:col-span-5 {
+    grid-column: span 5 / span 5;
+  }
+
+  .xl\:grid {
+    display: grid;
+  }
+
   .xl\:w-\[61px\] {
     width: 61px;
   }
@@ -6990,6 +7006,10 @@ table.table-master.table-auto {
 
   .xl\:max-w-\[70px\] {
     max-width: 70px;
+  }
+
+  .xl\:grid-cols-5 {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
   }
 }
 @media (min-width: 1536px) {
@@ -7035,4 +7055,4 @@ table.table-master.table-auto {
 }
 
 
-/*# sourceMappingURL=main.8961519f.css.map*/
+/*# sourceMappingURL=main.8c843e62.css.map*/
