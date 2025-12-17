@@ -4196,54 +4196,81 @@ button.button-berge-primary:disabled {
     width: max-content;
     column-gap: 0.5rem;
     overflow: auto;
+
     .pills-item {
         z-index: 0;
     }
+
     .pills-item {
         gap: 0.5rem;
     }
+
     .pills-item {
         overflow: hidden;
     }
+
     .pills-item {
         padding: 0.5rem;
     }
+
     .pills-item {
         font-size: 14px;
     }
+
     .pills-item {
         font-size: 12px;
     }
+
     .brand-white {
         color: var(--loglines-gray-v6);
         background-color: var(--loglines-white);
     }
+
     .brand-white-active {
         color: var(--loglines-white);
         background-color: var(--loglines-brand-v5);
     }
+
     .brand-gray {
         color: var(--loglines-gray-v6);
         background-color: var(--loglines-gray-v2);
     }
+
     .brand-gray-active {
         color: var(--loglines-white);
         background-color: var(--loglines-brand-v5);
     }
+
     .brand-v2 {
         color: var(--loglines-brand-v4);
         background-color: var(--loglines-brand-v2);
     }
+
     .brand-v2-active {
         color: var(--loglines-white);
         background-color: var(--loglines-brand-v4);
     }
+
     .brand-v2-disabled {
         color: var(--loglines-brand-v3);
         background-color: var(--loglines-brand-v2);
     }
-}
 
+    .brand-v3 {
+        color: var(--loglines-brand-v6);
+        background-color: var(--loglines-brand-v3);
+    }
+
+    .brand-v3-active {
+        color: var(--loglines-white);
+        background-color: var(--loglines-brand-v4);
+    }
+
+    .brand-v3-disabled {
+        color: var(--loglines-brand-v3);
+        background-color: var(--loglines-brand-v2);
+    }
+}
 .table-expandable {
     border-color: var(--loglines-gray-v3);
     border-radius: 0.25rem;
@@ -7011,4 +7038,4 @@ table.table-master.table-auto {
 }
 
 
-/*# sourceMappingURL=main.de7915c7.css.map*/
+/*# sourceMappingURL=main.89cb7cc3.css.map*/

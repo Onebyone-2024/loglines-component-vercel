@@ -1,3 +1,6 @@
+## release-2025.12.17.15.02.06
+improvment component pils and also add new variant color for brand-v3
+
 ## release-2025.12.16.19.18.49
 -   improvement - add `asteriskPosition` prop support to:
     -   `dropdown-async` component: required asterisk can now be positioned before or after the label using `asteriskPosition` prop
