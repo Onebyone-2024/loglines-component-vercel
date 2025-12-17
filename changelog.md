@@ -1,3 +1,22 @@
+## release-2025.12.17.19.47.27
+- refactor dropdown, dropdown-async, and dropdown-creatable components with
+  custom clear and dropdown indicators for consistent icon styling
+- enhance date-picker-input component with unified icon/clearable layout,
+  improved disabled state, and fixed heights for icons and separator
+- add focus state CSS classes to measurement-input for better visual feedback
+- improve disabled state visual consistency across form components
+
+## release-2025.12.17.16.30.00
+-   improvement - refactor dropdown components (dropdown, dropdown-async, dropdown-creatable) with custom clear and dropdown indicators for consistent icon styling
+-   improvement - enhance date-picker-input component:
+    -   unified icon and clearable button layout using absolute positioning
+    -   improved disabled state visual feedback
+    -   fixed icon container and separator heights for better consistency
+    -   added click prevention when disabled
+-   improvement - enhance measurement-input component:
+    -   added CSS classes for focused label and border states
+    -   improved focus state visual consistency
+
 ## release-2025.12.17.15.02.06
 improvment component pils and also add new variant color for brand-v3
 
