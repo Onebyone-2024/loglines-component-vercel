@@ -1,3 +1,6 @@
+## release-2025.12.19.14.21.39
+improvement - give a `string` type on `variant` props for custom variant button
+
 ## release-2025.12.19.14.20.22
 - improvement - give a `string` type on `variant` props for custom variant button
 
