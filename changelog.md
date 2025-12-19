@@ -1,3 +1,6 @@
+## release-2025.12.19.14.20.22
+- improvement - give a `string` type on `variant` props for custom variant button
+
 ## release-2025.12.17.20.14.33
 -   improvement - improve tab-master component responsive sizing:
     -   added xl breakpoint grid layout (xl:grid xl:grid-cols-5) for better desktop alignment
