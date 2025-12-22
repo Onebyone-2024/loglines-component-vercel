@@ -1,3 +1,8 @@
+## release-2025.12.22.11.06.16
+- Improvement - conditional rendering logic in the SplitTable component for footer and other elements based on prop availability.
+- Improvement - table cell key generation for better uniqueness.
+- Improvement - Addresses minor formatting inconsistencies.
+
 ## release-2025.12.19.14.21.39
 improvement - give a `string` type on `variant` props for custom variant button
 
