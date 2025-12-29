@@ -1,3 +1,6 @@
+## release-2025.12.29.16.12.40
+improvment responsive tab sizing
+
 ## release-2025.12.22.11.06.16
 - Improvement - conditional rendering logic in the SplitTable component for footer and other elements based on prop availability.
 - Improvement - table cell key generation for better uniqueness.
