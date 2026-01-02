@@ -5964,6 +5964,9 @@ video {
 .flex-row {
   flex-direction: row;
 }
+.\!flex-row-reverse {
+  flex-direction: row-reverse !important;
+}
 .flex-row-reverse {
   flex-direction: row-reverse;
 }
@@ -7055,4 +7058,4 @@ table.table-master.table-auto {
 }
 
 
-/*# sourceMappingURL=main.8c843e62.css.map*/
+/*# sourceMappingURL=main.51670372.css.map*/

@@ -1,3 +1,10 @@
+## release-2026.01.02.10.00.54
+improvement: enhance table checkbox functionality and button customization
+
+- improvement: add checkboxes in parent and child tables for hierarchical selection
+- improvement: parent checkbox automatically selects when all child checkboxes are selected
+- improvement: add custom classes and custom label props for button components
+
 ## release-2025.12.29.16.12.40
 improvment responsive tab sizing
 
