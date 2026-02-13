@@ -1,4 +1,4 @@
-## release-2026.02.13.17.31.13
+## release-2026.02.13.17.31.52
 - improvement on expandable table Add onClick function on parent and child row
 - improvement on simple table fix active class on first load
 
