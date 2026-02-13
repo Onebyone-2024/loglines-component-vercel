@@ -1,3 +1,7 @@
+## release-2026.02.13.17.01.32
+- improvement on expandable table Add onClick function on parent and child row
+- improvement on simple table fix active class on first load
+
 ## release-2026.01.02.10.04.02
 improvement: enhance table checkbox functionality and button customization
 
