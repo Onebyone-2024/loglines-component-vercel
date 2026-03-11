@@ -1,3 +1,7 @@
+## release-2026.03.11.16.01.56
+- Fix Bugs - the rowOptionComponent props because currently there are 2 SimpleTable needed for showing rowOptionComponent and it breaks if using scrollbar.
+
+
 ## release-2026.02.13.17.31.52
 - improvement on expandable table Add onClick function on parent and child row
 - improvement on simple table fix active class on first load
