@@ -1,3 +1,13 @@
+## release-2026.03.12.14.10.59
+- Refactored table layout so pagination stays in a stable footer area and does not get mixed into the scrollable content area.
+- Updated SimpleTable structure to better separate:
+    - table header
+    - scrollable body
+    - pagination/footer
+- Removed row-position logic based on lastThreeIndices / isLastRow from table components.
+- Improved RowOptionOverlay positioning so the option menu can open upward when there is not enough space below.
+- Adjusted row option overlay anchoring to improve interaction and prevent clipping on lower rows.
+
 ## release-2026.03.11.16.08.09
 Fix Bugs - Simple Table Component
 

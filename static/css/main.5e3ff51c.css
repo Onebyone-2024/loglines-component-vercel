@@ -3108,7 +3108,12 @@ input {
     text-align: left;
     color: var(--loglines-gray-v5);
     font-weight: 350;
+
+    position: sticky;
+    top: 0;
+    background-color: var(--loglines-white);
 }
+
 .simple-table th .row-container {
     margin-top: 4px;
     width: max-content;
@@ -3135,6 +3140,7 @@ input {
 .simple-table th:first-child {
     padding-left: 1rem;
 }
+
 .simple-table td {
     height: 2.5rem;
     padding-left: 0.5rem;
@@ -3145,6 +3151,7 @@ input {
 .simple-table td .row-container {
     margin-top: 4px;
 }
+
 .simple-table td div {
     color: var(--loglines-gray-v6);
 }
@@ -3156,7 +3163,13 @@ input {
     height: 100%;
     width: 100%;
     border-style: solid;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+    overflow: hidden;
 }
+
 .simple-table-container .active {
     background-color: var(--loglines-brand-v2);
 }
@@ -3164,6 +3177,7 @@ input {
 .variant-gray {
     background-color: var(--loglines-gray-v1);
 }
+
 .variant-gray th {
     background-color: var(--loglines-gray-v2) !important;
 }
@@ -3185,14 +3199,15 @@ input {
 .simple-table th.sticky {
     position: sticky;
     right: 0;
+    top: 0;
     background-color: var(--loglines-gray-v1) !important;
     cursor: pointer;
+    z-index: 3;
 }
 
 .simple-table th.sticky:hover {
     background-color: var(--loglines-gray-v2) !important;
 }
-
 .spinner-container {
     display: flex;
     height: 100%;
@@ -5194,6 +5209,9 @@ video {
 .bottom-\[-37px\] {
   bottom: -37px;
 }
+.bottom-\[calc\(100\%\+4px\)\] {
+  bottom: calc(100% + 4px);
+}
 .bottom-full {
   bottom: 100%;
 }
@@ -5248,11 +5266,11 @@ video {
 .top-\[-37px\] {
   top: -37px;
 }
-.top-\[-55px\] {
-  top: -55px;
-}
 .top-\[70px\] {
   top: 70px;
+}
+.top-\[calc\(100\%\+4px\)\] {
+  top: calc(100% + 4px);
 }
 .top-full {
   top: 100%;
@@ -5274,6 +5292,9 @@ video {
 }
 .z-\[1\] {
   z-index: 1;
+}
+.z-\[2\] {
+  z-index: 2;
 }
 .z-\[999\] {
   z-index: 999;
@@ -5421,9 +5442,6 @@ video {
 }
 .mr-3 {
   margin-right: 0.75rem;
-}
-.mr-\[10px\] {
-  margin-right: 10px;
 }
 .mr-\[5px\] {
   margin-right: 5px;
@@ -5659,6 +5677,9 @@ video {
 .h-inherit {
   height: inherit;
 }
+.min-h-0 {
+  min-height: 0px;
+}
 .min-h-\[42px\] {
   min-height: 42px;
 }
@@ -5865,6 +5886,9 @@ video {
 }
 .flex-none {
   flex: none;
+}
+.shrink-0 {
+  flex-shrink: 0;
 }
 .flex-grow {
   flex-grow: 1;
@@ -7058,4 +7082,4 @@ table.table-master.table-auto {
 }
 
 
-/*# sourceMappingURL=main.51670372.css.map*/
+/*# sourceMappingURL=main.5e3ff51c.css.map*/
