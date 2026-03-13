@@ -5878,6 +5878,9 @@ video {
 .max-w-\[250px\] {
   max-width: 250px;
 }
+.max-w-\[420px\] {
+  max-width: 420px;
+}
 .flex-1 {
   flex: 1 1;
 }
@@ -6000,6 +6003,9 @@ video {
 .flex-wrap {
   flex-wrap: wrap;
 }
+.flex-nowrap {
+  flex-wrap: nowrap;
+}
 .content-center {
   align-content: center;
 }
@@ -6098,6 +6104,9 @@ video {
 }
 .overflow-hidden {
   overflow: hidden;
+}
+.overflow-x-auto {
+  overflow-x: auto;
 }
 .overflow-y-auto {
   overflow-y: auto;
@@ -6489,9 +6498,6 @@ video {
 .pr-\[80px\] {
   padding-right: 80px;
 }
-.pt-0 {
-  padding-top: 0px;
-}
 .pt-1 {
   padding-top: 0.25rem;
 }
@@ -6854,32 +6860,12 @@ table.table-master.table-auto {
     min-width: 0px;
   }
 
-  .mobile\:min-w-\[100px\] {
-    min-width: 100px;
-  }
-
   .mobile\:flex-wrap {
     flex-wrap: wrap;
   }
 
-  .mobile\:flex-wrap-reverse {
-    flex-wrap: wrap-reverse;
-  }
-
-  .mobile\:justify-end {
-    justify-content: flex-end;
-  }
-
-  .mobile\:gap-1 {
-    gap: 0.25rem;
-  }
-
   .mobile\:pr-0 {
     padding-right: 0px;
-  }
-
-  .mobile\:pt-1 {
-    padding-top: 0.25rem;
   }
 }
 @media (max-width: 767px) {
@@ -6906,10 +6892,6 @@ table.table-master.table-auto {
 
   .sm\:w-full {
     width: 100%;
-  }
-
-  .sm\:min-w-\[300px\] {
-    min-width: 300px;
   }
 
   .sm\:\!max-w-\[500px\] {
@@ -6967,14 +6949,6 @@ table.table-master.table-auto {
     max-width: 500px;
   }
 
-  .md\:max-w-\[600px\] {
-    max-width: 600px;
-  }
-
-  .md\:max-w-none {
-    max-width: none;
-  }
-
   .md\:pr-2 {
     padding-right: 0.5rem;
   }
@@ -7007,36 +6981,12 @@ table.table-master.table-auto {
 }
 @media (min-width: 1280px) {
 
-  .xl\:col-span-2 {
-    grid-column: span 2 / span 2;
-  }
-
-  .xl\:col-span-3 {
-    grid-column: span 3 / span 3;
-  }
-
-  .xl\:col-span-5 {
-    grid-column: span 5 / span 5;
-  }
-
-  .xl\:grid {
-    display: grid;
-  }
-
   .xl\:w-\[61px\] {
     width: 61px;
   }
 
-  .xl\:max-w-\[600px\] {
-    max-width: 600px;
-  }
-
   .xl\:max-w-\[70px\] {
     max-width: 70px;
-  }
-
-  .xl\:grid-cols-5 {
-    grid-template-columns: repeat(5, minmax(0, 1fr));
   }
 }
 @media (min-width: 1536px) {
@@ -7047,10 +6997,6 @@ table.table-master.table-auto {
 
   .\32xl\:max-w-\[130px\] {
     max-width: 130px;
-  }
-
-  .\32xl\:max-w-\[600px\] {
-    max-width: 600px;
   }
 
   .\32xl\:text-size-S {
@@ -7082,4 +7028,4 @@ table.table-master.table-auto {
 }
 
 
-/*# sourceMappingURL=main.5e3ff51c.css.map*/
+/*# sourceMappingURL=main.cae0e44f.css.map*/

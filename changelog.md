@@ -1,3 +1,14 @@
+## release-2026.03.13.15.32.56
+- The field is reformatting again if clicked and then onBlur repeatedly eventhough the format is correct
+- It fixed by determines what current formatting is whether Indonesian or English first and normalize to number again and transform to the correct format
+- Improvement: Tab Master:
+    - Simplified TabMaster top section layout to use a cleaner flex structure
+    - Removed wrapping detection logic and ResizeObserver usage
+    - Removed unnecessary useEffect / useState handling for wrap checks
+    - Updated the right-side action area to use flex-nowrap so search and actions stay in one line
+    - Improved horizontal overflow handling on the tab container
+    - Adjusted tab label rendering by wrapping the label in a <p> with text-sm for better fit and readability
+
 ## release-2026.03.12.14.10.59
 - Refactored table layout so pagination stays in a stable footer area and does not get mixed into the scrollable content area.
 - Updated SimpleTable structure to better separate:
