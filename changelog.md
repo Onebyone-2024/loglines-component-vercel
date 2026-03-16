@@ -1,3 +1,10 @@
+## release-2026.03.16.11.00.10
+- Refactors `TabMaster` to support a responsive layout across mobile, tablet, and desktop screen sizes.
+- Adds the `rowOptionHeaderComponent` prop to SimpleTable to allow optional content inside the option/action column header.
+- improve the usability of TabMaster across different screen sizes,
+- clean up several implementation details for better safety and maintainability,
+- increase the flexibility of SimpleTable without affecting any existing usage.
+
 ## release-2026.03.13.15.32.56
 - The field is reformatting again if clicked and then onBlur repeatedly eventhough the format is correct
 - It fixed by determines what current formatting is whether Indonesian or English first and normalize to number again and transform to the correct format
