@@ -1,3 +1,6 @@
+## release-2026.03.27.17.02.55
+- apply container classname on simple table
+
 ## release-2026.03.16.11.00.10
 - Refactors `TabMaster` to support a responsive layout across mobile, tablet, and desktop screen sizes.
 - Adds the `rowOptionHeaderComponent` prop to SimpleTable to allow optional content inside the option/action column header.
