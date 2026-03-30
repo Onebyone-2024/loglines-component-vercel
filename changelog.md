@@ -1,3 +1,6 @@
+## release-2026.03.30.10.20.52
+- add custom label in dropdown item 
+
 ## release-2026.03.27.17.02.55
 - apply container classname on simple table
 
