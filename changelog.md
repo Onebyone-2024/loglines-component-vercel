@@ -1,3 +1,14 @@
+## release-2026.03.30.10.59.31
+Changes
+- aligned external grouped input styling with the internal input component behavior
+- added overflow: hidden on .input-group
+- removed the right border from grouped input fields
+- adjusted grouped input border radius to preserve only the left rounded corners
+- improved right-side description spacing so the input area feels wider and less cramped
+- fixed inconsistent right border rendering on external grouped inputs
+- added support for showEmptyRowAddButton={false} in TableExpand, allowing the empty state to hide the inline Add Item button inside the row when needed
+
+
 ## release-2026.03.30.10.20.52
 - add custom label in dropdown item 
 
