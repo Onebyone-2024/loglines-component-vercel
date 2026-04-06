@@ -7149,6 +7149,12 @@ table.table-master.table-auto {
 .\[\&\:\:-webkit-outer-spin-button\]\:appearance-none::-webkit-outer-spin-button {
   appearance: none;
 }
+.\[\&_\.sort-button\]\:\!border-0 .sort-button {
+  border-width: 0px !important;
+}
+.\[\&_\.sort-button\]\:\!bg-transparent .sort-button {
+  background-color: transparent !important;
+}
 
 /* 
     Note: The index.css file will not be included in the build process.
@@ -7168,4 +7174,4 @@ table.table-master.table-auto {
 }
 
 
-/*# sourceMappingURL=main.94dcb085.css.map*/
+/*# sourceMappingURL=main.a82c6eea.css.map*/
