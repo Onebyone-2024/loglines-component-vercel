@@ -1,3 +1,6 @@
+## release-2026.05.07.11.37.14
+bugfix - Dropdown option not showing customLabel
+
 ## release-2026.04.06.15.28.58
 - improvement : add sort in header table
 - improvement : add optional props to show or hide expandable children using expandEmptyChildren :
