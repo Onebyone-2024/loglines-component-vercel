@@ -1,3 +1,8 @@
+## release-2026.06.19.14.09.19
+- Add a pre selected props for TableExpandable Component
+- The table expandable is not enought to cover all empty fields
+
+
 ## release-2026.06.18.14.52.43
 improvement table
 
