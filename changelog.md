@@ -1,3 +1,6 @@
+## release-2026.06.23.15.10.05
+- improvement - add disable checkbox props in table component
+
 ## release-2026.06.19.14.12.08
 - Add a pre selected props for TableExpandable Component
 - The table expandable is not enought to cover all empty fields
